@@ -52,9 +52,8 @@ li{
 }
 
 .contents-item {
-  display: flex;
+  float: left;
   margin-right: 40px;
-  box-sizing: border-box;
 }
 
 .contents-item p {
