@@ -52,8 +52,9 @@ li{
 }
 
 .contents-item {
-  float: left;
+  display: flex;
   margin-right: 40px;
+  box-sizing: border-box;
 }
 
 .contents-item p {
@@ -97,6 +98,7 @@ input , textarea{
 
 @media (max-width: 1000px){
   .contents-item{
-    margin: 20px
+    display: block; 
+    margin: 20px;
   }
 }
