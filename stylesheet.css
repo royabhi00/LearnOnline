@@ -96,7 +96,7 @@ input , textarea{
   padding-bottom: 20px;
 }
 
-@media (max-width: 1000px){
+@media (max-width: 770px){
   .contents-item{
     display: block; 
     margin: 20px;
