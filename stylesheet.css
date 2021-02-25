@@ -101,4 +101,6 @@ input , textarea{
     display: block; 
     margin: 20px;
   }
+  .footer {
+    margin-top: 20px;
 }
