@@ -95,10 +95,3 @@ input , textarea{
 .footer-list li {
   padding-bottom: 20px;
 }
-
-@media (max-width: 770px){
-  .contents-item{
-    display: block; 
-    margin: 20px;
-  }
-}
