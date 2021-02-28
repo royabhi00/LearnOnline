@@ -85,8 +85,7 @@ input , textarea{
   color: #fff;
   height: 120px;
   padding: 40px;
-  position: relative;
-  top: 300px;
+  clear: both;
 }
 
 .footer-logo {
