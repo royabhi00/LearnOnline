@@ -58,7 +58,7 @@ img{
 
 .contents-item {
   float: left;
-  margin-right: 40px;
+  margin-right: 50px;
 }
 
 .contents-item p {
@@ -85,7 +85,7 @@ input , textarea{
   color: #fff;
   height: 120px;
   padding: 40px;
-  clear: both;
+  clear:both;
 }
 
 .footer-logo {
