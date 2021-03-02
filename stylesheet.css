@@ -87,7 +87,6 @@ input , textarea{
   padding: 40px;
   clear: both;
   display: flex;
-  flex-direction: column;
   margin-top: auto;
 }
 
